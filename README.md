@@ -1,2 +1,2 @@
 # Bash-Maquina-Expendedora
-Este es un script realizado en Bash, la idea es automatizar una lista de tareas elegidas por mí, en total 10. Eliges la tarea que quieres realizar y rellenas la información necesaria como, nombres, rutas, permisos, etc. 
+Este es un script realizado en Bash, la idea es simular una máquina de x productos. Eliges el producto que quieres comprar e insertar el precio necesario, en caso de que sobre, simula la devolución y en caso de que falte, te pide el dinero restante.
